@@ -3,6 +3,6 @@
      "sourceMap": true 
   },
   "files": [
-      "018_immediately_invoked_functions.ts"
+      "020_classes.ts"
   ]  
 }
