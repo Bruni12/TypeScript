@@ -3,6 +3,6 @@
      "sourceMap": true 
   },
   "files": [
-      "016_5_arrow_functions.ts"
+      "017_function_declarations_vs_expressions.ts"
   ]  
 }
