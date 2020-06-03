@@ -3,6 +3,6 @@
      "sourceMap": true 
   },
   "files": [
-      "017_function_declarations_vs_expressions.ts"
+      "018_immediately_invoked_functions.ts"
   ]  
 }
